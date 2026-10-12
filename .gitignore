@@ -1,0 +1,11 @@
+# Local secrets and private records
+.env
+.env.*
+!.env.example
+凭据/
+私人资料/
+work/
+*.tmp
+*.log
+出版/Word/
+出版/PDF/
