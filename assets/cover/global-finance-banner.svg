@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">把你的财富，连接到全球。</title>
+<desc id="desc">从一个账户，到一套属于自己的金融体系。五篇内容覆盖金融地图、海外市场、Crypto、全球收入与实操。</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102338"/><stop offset="1" stop-color="#152B45"/></linearGradient></defs>
+<rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#72B8D8" opacity=".23">
+<circle cx="1074" cy="99" r="81"/><ellipse cx="1074" cy="99" rx="34" ry="81"/><ellipse cx="1074" cy="99" rx="63" ry="81"/>
+<path d="M993 99h162M1005 59h138M1005 139h138"/><path d="M968 149Q1055 30 1180 69" stroke-width="2"/>
+</g>
+<circle cx="1152" cy="55" r="5" fill="#49D8C8"/><circle cx="1002" cy="131" r="5" fill="#FFC278"/>
+<g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Arial, sans-serif">
+<text x="36" y="38" font-size="13" font-weight="700" letter-spacing="2.2" fill="#A7C9DF">GLOBAL FINANCE · A PERSONAL GUIDE</text>
+<text x="36" y="100" font-size="43" font-weight="700" fill="#FFFFFF">把你的财富，连接到全球。</text>
+<text x="39" y="142" font-size="21" fill="#C3D6E5">从一个账户，到一套属于自己的金融体系</text>
+<g transform="translate(36 185)"><rect width="208" height="49" rx="9" fill="#FFFFFF" fill-opacity=".065"/><rect width="4" height="29" x="0" y="10" rx="2" fill="#49D8C8"/><text x="15" y="31" font-size="15" font-weight="700" fill="#49D8C8">01</text><text x="47" y="31" font-size="17" fill="#F0F5F9">看懂金融地图</text></g>
+<g transform="translate(266 185)"><rect width="208" height="49" rx="9" fill="#FFFFFF" fill-opacity=".065"/><rect width="4" height="29" x="0" y="10" rx="2" fill="#79AEFF"/><text x="15" y="31" font-size="15" font-weight="700" fill="#79AEFF">02</text><text x="47" y="31" font-size="17" fill="#F0F5F9">进入海外市场</text></g>
+<g transform="translate(496 185)"><rect width="208" height="49" rx="9" fill="#FFFFFF" fill-opacity=".065"/><rect width="4" height="29" x="0" y="10" rx="2" fill="#B8A2FF"/><text x="15" y="31" font-size="15" font-weight="700" fill="#B8A2FF">03</text><text x="47" y="31" font-size="17" fill="#F0F5F9">理解 Crypto</text></g>
+<g transform="translate(726 185)"><rect width="208" height="49" rx="9" fill="#FFFFFF" fill-opacity=".065"/><rect width="4" height="29" x="0" y="10" rx="2" fill="#FFC278"/><text x="15" y="31" font-size="15" font-weight="700" fill="#FFC278">04</text><text x="47" y="31" font-size="17" fill="#F0F5F9">创造全球收入</text></g>
+<g transform="translate(956 185)"><rect width="208" height="49" rx="9" fill="#FFFFFF" fill-opacity=".065"/><rect width="4" height="29" x="0" y="10" rx="2" fill="#F3D889"/><text x="15" y="31" font-size="15" font-weight="700" fill="#F3D889">05</text><text x="47" y="31" font-size="17" fill="#F0F5F9">实操落地</text></g>
+</g></svg>
