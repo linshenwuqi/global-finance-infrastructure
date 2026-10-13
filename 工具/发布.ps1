@@ -10,7 +10,7 @@ try {
     if ($LASTEXITCODE -ne 0) { throw '无法检查暂存状态。' }
     git diff --check
     if ($LASTEXITCODE -ne 0) { throw '发现空白格式错误，请先修复。' }
-    $bookFiles = @('README.md', '目录.md', '版权说明.md', '更新记录.md', '参考资料', '章节', '素材', 'AGENTS.md', '.gitignore', '.gitattributes', '工具')
+    $bookFiles = @('README.md', '目录.md', '版权说明.md', '更新日志.md', '风险说明.md', '参考资料', '第一篇｜先看懂全球金融地图', '第二篇｜真正进入海外证券市场', '第三篇｜Crypto与链上金融', '第四篇｜从投资全球到赚全球的钱', '第五篇｜实操手册', 'assets', 'AGENTS.md', '.gitignore', '.gitattributes', '工具')
     git add -- $bookFiles
     if ($LASTEXITCODE -ne 0) { throw '暂存失败。' }
     git diff --cached --stat
